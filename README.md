@@ -1,1 +1,1 @@
-This repo contains two programs. The first program is to get the basic concepts of how JDBC works and in the second program I implemented add, delete, edit etc.. functionalities to deal with database. Give me a star if it helped you out in understanding JDBC.
+This repo contains two programs. The first program(JDBC DEMO) is to understand the basic concepts of how JDBC works and in the second program(JDBC DEMO_) I implemented add, delete, edit etc.. functionalities to deal with database. Give me a star if it helped you out in understanding JDBC.
